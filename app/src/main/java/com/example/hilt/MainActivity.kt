@@ -16,6 +16,5 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         userRepository.oncreate("Zahid","12345678")
         userRepository1.oncreate("Zahid","12345678")
-
     }
 }
